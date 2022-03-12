@@ -6,7 +6,7 @@ django-crispy-forms==1.9.0
 idna==2.9
 letterboxd==0.3.0
 numpy==1.18.2
-Pillow==7.0.0
+Pillow==9.0.1
 psutil==5.7.0
 pytz==2019.3
 requests==2.23.0
